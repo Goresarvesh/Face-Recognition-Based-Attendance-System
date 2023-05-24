@@ -17,3 +17,6 @@ This type of attendance system offers several benefits, including:
 
  Cost-effective: By automating the attendance marking process, the system can help 
 reduce costs associated with manual attendance management. 
+
+
+![image](https://github.com/Goresarvesh/Face-Recognition-Based-Attendance-System/assets/79092502/b167a9df-100f-4ced-b095-2d214e607270)
