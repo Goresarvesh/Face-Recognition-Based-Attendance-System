@@ -5,10 +5,15 @@ attendance marking process in various settings, such as schools, colleges, offic
 institutions. The system uses facial recognition technology to identify individuals and record 
 their attendance without requiring any manual intervention. 
 
+
 This type of attendance system offers several benefits, including: 
 
+
  Efficiency: The system can quickly identify and record attendance, eliminating the need for time-consuming manual processes. 
+
  Accuracy: Face recognition technology is highly accurate and can identify individuals with a high degree of accuracy. 
+
  Security: The system can help prevent instances of proxy attendance and other fraudulent activities. 
+
  Cost-effective: By automating the attendance marking process, the system can help 
 reduce costs associated with manual attendance management. 
